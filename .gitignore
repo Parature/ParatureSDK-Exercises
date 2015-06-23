@@ -1,0 +1,11 @@
+bin/Debug/Exercises.exe
+bin/Debug/Exercises.pdb
+bin/Debug/Exercises.exe.config
+*.cache
+bin/Debug/Exercises.vshost.exe
+bin/Debug/Exercises.vshost.exe.manifest
+bin/Debug/ParatureSDK.xml
+*.user
+bin/Debug/ParatureSDK.pdb
+bin/Debug/ParatureSDK.dll
+bin/Debug/Exercises.vshost.exe.config
